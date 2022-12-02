@@ -447,3 +447,18 @@ footer {
     height: 70px;
     cursor: pointer;
 }
+
+.credits{
+    margin-left: 100px;
+}
+.credits h3{
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.credits a{
+    color: #98c1d9;
+}
+
